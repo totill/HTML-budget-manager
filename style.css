@@ -1,0 +1,100 @@
+body {
+  background-color: rgb(255, 201, 74);
+}
+
+.whole-page {
+  background-color: rgb(121, 84, 88);
+  color: rgb(75, 52, 55);
+}
+
+.background {
+  background-color: rgb(255, 201, 74);
+}
+
+/* .background-image {
+  max-width: 500px;
+  max-width: 50vw;
+  height: auto;
+  width: 100%;
+  resize: both;
+
+  border-radius: 15px;
+} */
+
+.image-cropper {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.header {
+  background-color: rgb(69, 63, 120);
+  color: rgb(255, 201, 74);
+}
+
+.header-two {
+  background-color: rgb(192, 139, 92);
+}
+
+.login-content {
+  background-color: rgb(192, 139, 92);
+  border-radius: 15px;
+}
+
+.btn {
+  background-color: rgb(69, 63, 120);
+  border: none;
+}
+
+.btn:hover {
+  background-color: rgb(121, 84, 88);
+}
+
+.lead {
+  text-align: justify;
+}
+
+.logo:hover {
+  color: rgb(192, 139, 92);
+}
+
+.btn-main {
+  background-color: rgb(255, 201, 74);
+  color: rgb(69, 63, 120);
+  font-weight: 500;
+}
+
+hr {
+  border-top: 2px solid rgb(75, 52, 55);
+}
+
+.btn-header {
+  background-color: rgb(192, 139, 92);
+  font-weight: 400;
+}
+
+.btn-header-two {
+  background-color: rgb(121, 84, 88);
+  color: rgb(39, 27, 29);
+  font-weight: 400;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.btn-header-two:hover {
+  color: rgb(255, 201, 74);
+}
+
+.btn-logout {
+  background-color: rgb(121, 84, 88);
+  /* font-weight: 400; */
+}
+
+.disclaimer {
+  display: inline-block;
+  background-color: rgb(69, 63, 120);
+  color: rgb(255, 201, 74);
+  padding: 15px;
+  border-radius: 15px;
+}
